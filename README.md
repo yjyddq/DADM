@@ -1,5 +1,5 @@
 # DADM
-The official implementation of [**"DADM: Dual Alignment of Domain and Modality for Face Anti-spoofing (DADM)"**](https://arxiv.org/abs/2503.00429).
+The implementation of [**"DADM: Dual Alignment of Domain and Modality for Face Anti-spoofing"**](https://arxiv.org/abs/2503.00429).
 
 Motivation of dual alignment of domain and modality:
 <div align=center>
@@ -9,7 +9,7 @@ Motivation of dual alignment of domain and modality:
 An overview of the proposed DADM architecture:
 
 <div align=center>
-<img src="https://github.com/yjyddq/DADM/blob/main/assets/Architecture.png" width="892" height="336" />
+<img src="https://github.com/yjyddq/DADM/blob/main/assets/Architecture.png" width="892" height="300" />
 </div>
 
 ## Congifuration Environment
