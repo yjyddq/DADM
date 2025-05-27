@@ -3,13 +3,13 @@ The official implementation of [**"DADM: Dual Alignment of Domain and Modality f
 
 :
 <div align=center>
-<img src="https://github.com/yjyddq/DADM/blob/main/assets/Motivation.png" width="512" height="224" />
+<img src="https://github.com/yjyddq/DADM/blob/main/assets/Motivation.png" width="768" height="336" />
 </div>
 
 An overview of the proposed DADM architecture:
 
 <div align=center>
-<img src="https://github.com/yjyddq/DADM/blob/main/assets/Architecture.png" width="892" height="384" />
+<img src="https://github.com/yjyddq/DADM/blob/main/assets/Architecture.png" width="892" height="336" />
 </div>
 
 ## Congifuration Environment
