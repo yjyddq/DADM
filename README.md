@@ -1,7 +1,7 @@
 # DADM
 The official implementation of [**"DADM: Dual Alignment of Domain and Modality for Face Anti-spoofing (DADM)"**](https://arxiv.org/abs/2503.00429).
 
-:
+Motivation of dual alignment of domain and modality:
 <div align=center>
 <img src="https://github.com/yjyddq/DADM/blob/main/assets/Motivation.png" width="768" height="336" />
 </div>
