@@ -46,4 +46,12 @@ Please cite our paper if the code is helpful to your research.
   journal={arXiv preprint arXiv:2503.00429},
   year={2025}
 }
+
+@inproceedings{yang2025dadm,
+  title={Dadm: Dual alignment of domain and modality for face anti-spoofing},
+  author={Yang, Jingyi and Lin, Xun and Yu, Zitong and Zhang, Liepiao and Liu, Xin and Li, Hui and Yuan, Xiaochen and Cao, Xiaochun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12045--12056},
+  year={2025}
+}
 ```
